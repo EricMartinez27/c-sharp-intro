@@ -1,0 +1,16 @@
+C:\Users\LTI\c-sharp-intro\exercise1\bin\Debug\net5.0\exercise1.exe
+C:\Users\LTI\c-sharp-intro\exercise1\bin\Debug\net5.0\exercise1.deps.json
+C:\Users\LTI\c-sharp-intro\exercise1\bin\Debug\net5.0\exercise1.runtimeconfig.json
+C:\Users\LTI\c-sharp-intro\exercise1\bin\Debug\net5.0\exercise1.runtimeconfig.dev.json
+C:\Users\LTI\c-sharp-intro\exercise1\bin\Debug\net5.0\exercise1.dll
+C:\Users\LTI\c-sharp-intro\exercise1\bin\Debug\net5.0\ref\exercise1.dll
+C:\Users\LTI\c-sharp-intro\exercise1\bin\Debug\net5.0\exercise1.pdb
+C:\Users\LTI\c-sharp-intro\exercise1\obj\Debug\net5.0\exercise1.csprojAssemblyReference.cache
+C:\Users\LTI\c-sharp-intro\exercise1\obj\Debug\net5.0\exercise1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LTI\c-sharp-intro\exercise1\obj\Debug\net5.0\exercise1.AssemblyInfoInputs.cache
+C:\Users\LTI\c-sharp-intro\exercise1\obj\Debug\net5.0\exercise1.AssemblyInfo.cs
+C:\Users\LTI\c-sharp-intro\exercise1\obj\Debug\net5.0\exercise1.csproj.CoreCompileInputs.cache
+C:\Users\LTI\c-sharp-intro\exercise1\obj\Debug\net5.0\exercise1.dll
+C:\Users\LTI\c-sharp-intro\exercise1\obj\Debug\net5.0\ref\exercise1.dll
+C:\Users\LTI\c-sharp-intro\exercise1\obj\Debug\net5.0\exercise1.pdb
+C:\Users\LTI\c-sharp-intro\exercise1\obj\Debug\net5.0\exercise1.genruntimeconfig.cache
